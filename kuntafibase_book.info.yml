@@ -1,0 +1,8 @@
+name: 'kuntafibase book'
+type: module
+description: 'Create book with outline'
+core: 8.x
+package: kuntafibase
+dependencies:
+  - book
+  - simple_sitemap

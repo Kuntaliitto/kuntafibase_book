@@ -1,0 +1,24 @@
+{
+  "name": "kuntaliitto/kuntafibase_book",
+  "type": "drupal-module-custom",
+  "description": "Create books, manuals, handbooks",
+  "keywords": [
+    "Drupal",
+    "KuntaFi",
+    "kuntafibase_book"
+  ],
+  "license": "GPL-2.0+",
+  "homepage": "https://github.com/Kuntaliitto/kuntafibase_book",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Antti Tuppurainen",
+      "email": "antti.tuppurainen@industry62.com"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/Kuntaliitto/kuntafibase_book/issues",
+    "source": "https://github.com/Kuntaliitto/kuntafibase_book"
+  },
+  "require": {}
+}
